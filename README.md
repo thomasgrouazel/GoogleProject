@@ -16,9 +16,9 @@ Warning: we won’t explain all the Google Homepage Project, only the use of Fon
 
 ## USAGE 
 First step, go to Font awesome website: <https://fontawesome.com> <br>
-Then get the link that allowed you to use their icons in your HTML code:
+Then get the link that allowed you to use their icons in your HTML code:<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910449882190450698/tuto18.PNG?width=1435&height=670)<br>
-And put this link into your HTML head:
+And put this link into your HTML head:<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910444278541606922/tuto11.PNG)<br>
 
 Okay, now you can use their icons. In HTML5 code you have two very useful options to get an icon working: link and SVG. Here you’ll have the easiest one, link. Stay in Font Awesome website and find a free icon that you want to use, like this one: <br>
@@ -56,6 +56,6 @@ Here a Codepen.io link to help you try new icons:<br> https://codepen.io/LostinZ
 
 Best of all, you can do it yourself now! Coding is all about free and open data, so let’s go and experiment as much as you want. Glad we can help you a little, see you soon <br>
 
-gabriel Alcala-Metché / Thomas grouazel / sebastien branly
+Gabriel Alcala-Metché / Thomas Grouazel / Sebastien Branly
 
 
