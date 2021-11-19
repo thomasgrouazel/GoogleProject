@@ -27,6 +27,7 @@ And put this link into your HTML head:<br>
 Okay, now you can use their icons. In HTML5 code you have two very useful options to get an icon working: link and SVG. Here you’ll have the easiest one, link. Stay in Font Awesome website and find a free icon that you want to use, like this one: <br>
 <br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/911280896726929428/unknown.png)<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910445831767859230/tuto15.png?width=1391&height=670)<br>
 
 Do you see <i class=”fas fa-search”></i> ? It’s the good link! <br>
