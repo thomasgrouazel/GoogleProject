@@ -1,4 +1,4 @@
-# googleeproject
+# google Project
 A Google Homepage project and an explanation on how to use the incredible Font Awesome.<br>
 
 ## FONT AWESOME 
