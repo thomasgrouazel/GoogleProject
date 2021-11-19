@@ -55,6 +55,7 @@ Another example? You’re a curious one… but here we are:<br>
 In a search bar! Yes, it’s possible. Font Awesome is… Awesome ehe. There you go for the CSS part:<br>
 <br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910451517847388180/tuto20.PNG)<br>
+<br>
 And the result: <br>
 <br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910451566589382667/tuto21.PNG)<br>
