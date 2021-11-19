@@ -65,7 +65,7 @@ Beautiful ? Yeah we know but thanks, you’re a kind person. <br>
 
 Here a Codepen.io link to help you try new icons:<br> https://codepen.io/LostinZCity/pen/RwZEQxr<br>
 
-Best of all, you can do it yourself now! Coding is all about free and open data, so let’s go and experiment as much as you want. Glad we can help you a little, see you soon <br>
+Best of all, you can do it yourself now! Coding is all about free and open data, so let’s go and experiment as much as you want. Glad we can help you a little, see you soon ;-) <br>
 
 Gabriel Alcala-Metché / Thomas Grouazel / Sebastien Branly
 
