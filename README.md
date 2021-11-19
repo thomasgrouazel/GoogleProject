@@ -17,8 +17,10 @@ Warning: we won’t explain all the Google Homepage Project, only the use of Fon
 ## USAGE 
 First step, go to Font awesome website: <https://fontawesome.com> <br>
 Then get the link that allowed you to use their icons in your HTML code:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910449882190450698/tuto18.PNG?width=1435&height=670)<br>
 And put this link into your HTML head:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910444278541606922/tuto11.PNG)<br>
 
 Okay, now you can use their icons. In HTML5 code you have two very useful options to get an icon working: link and SVG. Here you’ll have the easiest one, link. Stay in Font Awesome website and find a free icon that you want to use, like this one: <br>
@@ -28,10 +30,12 @@ Okay, now you can use their icons. In HTML5 code you have two very useful option
 Do you see <i class=”fas fa-search”></i> ? It’s the good link! <br>
 <br>
 We used different icons in our project but it’s the same process. The best example is a button, clear and simple. To get your icon inside the button you need to do that at first:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910447012741255168/tuto13.PNG)<br>
 
 Just between the two <> </> of your button. <br>
 And then, you use the CSS the way you want to shape the button. Here we wanted this:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910447093829750814/tuto17.PNG)<br>
 
 The result you asked. Good you’re still awake! Here you are:<br>
@@ -43,11 +47,14 @@ The result you asked. Good you’re still awake! Here you are:<br>
 The two on the right parts are your buttons without any text, only one icon each.<br>
 
 Another example? You’re a curious one… but here we are:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910451513774714890/tuto19.PNG)
 
 In a search bar! Yes, it’s possible. Font Awesome is… Awesome ehe. There you go for the CSS part:<br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910451517847388180/tuto20.PNG)<br>
 And the result: <br>
+<br>
 ![plot](https://media.discordapp.net/attachments/900265852904030218/910451566589382667/tuto21.PNG)
 
 Beautiful ? Yeah we know but thanks, you’re a kind person. <br>
